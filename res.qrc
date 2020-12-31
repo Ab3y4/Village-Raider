@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>bullet_sound.wav</file>
+        <file>bgmusic.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>bomb.png</file>
+        <file>bullet.png</file>
+        <file>tank.png</file>
+        <file>background.jpg</file>
+        <file>background_menu.jpg</file>
+        <file>background_howToPlay.jpg</file>
+    </qresource>
+</RCC>
